@@ -16,15 +16,3 @@ class Dancer
     @name = name
   end
 end
-
-
-angelina = Dancer.new
-angelina.twirl
-
-angelina.jump
-
-
-buster = Kid.new
-buster.jump
-
-buster.take_a_bow
